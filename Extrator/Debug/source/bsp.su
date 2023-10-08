@@ -1,0 +1,6 @@
+/usr/local/mcuxpressoide-11.7.1_9221/ide/k32/TurbiditySensor/drivers/fsl_adc16.h:382:20:ADC16_EnableHardwareTrigger	16	static
+/usr/local/mcuxpressoide-11.7.1_9221/ide/k32/TurbiditySensor/drivers/fsl_adc16.h:500:24:ADC16_GetChannelConversionValue	16	static
+../source/bsp.c:19:6:BSP_InitBoard	8	static
+../source/bsp.c:28:10:BSP_ReadAdc	16	static
+../source/bsp.c:42:6:BSP_SendUart	16	static
+../source/bsp.c:46:13:BSP_InitAdc	24	static
